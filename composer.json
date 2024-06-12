@@ -1,0 +1,20 @@
+{
+    "name": "biel/composer-aulas",
+    "description": "Aulas_de_Composer",
+    "type": "library",
+    "version":"2.7.7",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "Biel\\ComposerAulas\\": "src/"
+        }
+    },
+
+    "require": {
+        "monolog/monolog": "^3.6"
+    }
+    
+
+    
+}
